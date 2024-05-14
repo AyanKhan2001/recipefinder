@@ -2,15 +2,15 @@
 
 A Recipe finder flutter app.
 
-## Getting Started
+![Splash](https://github.com/AyanKhan2001/recipefinder/assets/91601194/9f023990-9502-4934-beee-c65430cbd8d1)
 
-This project is a starting point for a Flutter application.
+![Home_Search](https://github.com/AyanKhan2001/recipefinder/assets/91601194/5849f8c1-0767-4720-b494-1880fa90f468)
 
-A few resources to get you started if this is your first Flutter project:
+![Description ](https://github.com/AyanKhan2001/recipefinder/assets/91601194/dbc3f7ab-7529-4994-83ea-0c6623c73b73)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![fav](https://github.com/AyanKhan2001/recipefinder/assets/91601194/c51dd75e-694e-4c0c-9544-22d1467a6161)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
